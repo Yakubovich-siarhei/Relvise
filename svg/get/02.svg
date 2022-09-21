@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73 72" width="73" height="72">
+	<title>icn settings </title>
+	<defs>
+		<image  width="57" height="71" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAABHAQMAAACH/n13AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAADVxjbwoIJgAAAAJ0Uk5TAP9bkSK1AAABCElEQVR4nJ2Su5HDMAxEwWGgUCWwk2NppDujO2EJzKxAI3h3YWvu0tNI9qOE7wJmtvkyXdWvAHfv/M+ASdgBB6EAzrD1sHYP64T3xQdhIeSg98BhMgHsGpLs9KgItDNGOfgkHzyVhTI2QJ3Fz3wRUA+hjeaenIBUD0JnTgBOLx9Ij+/dRwNktzYFF0IIUNg/4Hb/BrxTJCYlRBk3sDCUaioVxUfNaIdQJxpM6gstq0HKntU7gL1TEWmzC34LtUm69YVJeanqpOCQP5QfenTSW36XHV3lSfk1Bisnb9NUqoaLObUVc+8x9+RPxUPEV6yEscG/21JiI7glR8C9UTnC2KcsBeof+OHPG3fU9PPzjHZqAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="1" y="0"/>
+</svg>
